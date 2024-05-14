@@ -3,7 +3,7 @@ Olá! 👋
 Sou Henrique de Antoni, Programador, Engenheiro e desenvolvedor Full Stack.
 
 Aqui encontrará alguns projetos que criei utilizando ferramentas como Javascript, Typescript, java, CSS e html.
-Atualmente estou estudando mais sobre Node e React no programa trilha Full Stack DevClub do <b>Rodrigo Mori<b>.
+
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
