@@ -4,11 +4,11 @@ Sou Henrique de Antoni, Programador, Engenheiro e desenvolvedor Full Stack.
 
 Aqui encontrará alguns projetos que criei utilizando ferramentas como Javascript, Typescript, java, CSS e html.
 
-<div>
-    <div style="display: inline-block; margin: 10px;">
+<div style="display: flex">
+    <div style="margin: 10px;">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     </div>
-    <div style="display: inline-block; margin: 10px;">
+    <div style="margin: 10px;">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     </div>
     <div style="display: inline-block; margin: 10px;">
