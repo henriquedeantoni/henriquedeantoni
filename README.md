@@ -7,7 +7,7 @@ Aqui encontrará alguns projetos que criei utilizando ferramentas como Javascrip
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" border="none">
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
     </td>
     <td align="center">
