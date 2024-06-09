@@ -1,12 +1,3 @@
-<style>
-.image-container {
-    display: flex;
-}
-.image-container div {
-    margin: 10px;
-}
-</style>
-
 
 Olá! 👋
 
