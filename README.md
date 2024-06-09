@@ -14,13 +14,13 @@ Aqui encontrará alguns projetos que criei utilizando ferramentas como Javascrip
     <div style="margin: 10px;">
         <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     </div>
-    <div style="display: inline-block; margin: 10px;">
+    <div style="margin: 10px;">
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     </div>
-    <div style="display: inline-block; margin: 10px;">
+    <div style="margin: 10px;">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     </div>
-    <div style="display: inline-block; margin: 10px;">
+    <div style="margin: 10px;">
         <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
     </div>
 </div>
