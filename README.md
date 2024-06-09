@@ -1,3 +1,13 @@
+<style>
+.image-container {
+    display: flex;
+}
+.image-container div {
+    margin: 10px;
+}
+</style>
+
+
 Olá! 👋
 
 Sou Henrique de Antoni, Programador, Engenheiro e desenvolvedor Full Stack.
