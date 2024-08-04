@@ -8,22 +8,22 @@ Aqui encontrará alguns projetos que criei utilizando ferramentas como Javascrip
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="Typescript">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-plain.svg" alt="Typescript">
     </td>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-plain.svg" alt="JavaScript">
     </td>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="Csharp">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-plain.svg" alt="Csharp">
     </td>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg" alt="Node">
     </td>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original-wordmark.svg" alt="React">
     </td>
     <td align="center">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vuejs/vuejs-original.svg" alt="Vue">
     </td>
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tail">
