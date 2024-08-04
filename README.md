@@ -8,7 +8,6 @@ Aqui encontrará alguns projetos que criei utilizando ferramentas como Javascrip
 <table>
   <tr>
     <td align="center">
-      [https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-plain.svg]
       <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-plain.svg" alt="Typescript">
     </td>
     <td align="center">
