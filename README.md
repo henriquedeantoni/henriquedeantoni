@@ -8,16 +8,25 @@ Aqui encontrará alguns projetos que criei utilizando ferramentas como Javascrip
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="Typescript">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="Csharp">
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node">
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React">
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue">
+    </td>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tail">
     </td>
   </tr>
 </table>
@@ -27,3 +36,4 @@ Aqui encontrará alguns projetos que criei utilizando ferramentas como Javascrip
 
 [![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquedeantoni)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedeantoni&layout=pie)](https://github.com/anuraghazra/github-readme-stats) <br>
 ![](https://komarev.com/ghpvc/?username=henriquedeantoni)
+
