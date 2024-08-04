@@ -3,7 +3,7 @@ Olá! 👋
 
 Sou Henrique de Antoni, Programador, Engenheiro e desenvolvedor Full Stack.
 
-Aqui encontrará alguns projetos que criei utilizando ferramentas como Javascript, Typescript, java, CSS e html.
+Aqui encontrará alguns projetos que criei utilizando ferramentas como Javascript, Typescript, C#, React e Vue.
 
 <table>
   <tr>
