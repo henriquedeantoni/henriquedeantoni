@@ -11,3 +11,5 @@ Aqui encontrará alguns projetos que criei utilizando ferramentas como Javascrip
 # 📊 GitHub Stats:
 
 [![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquedeantoni)](https://github.com/anuraghazra/github-readme-stats)  ![Henrique GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedeantoni)
+
+![](https://komarev.com/ghpvc/?username=henriquedeantoni)
