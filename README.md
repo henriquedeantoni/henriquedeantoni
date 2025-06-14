@@ -12,6 +12,3 @@ Aqui encontrará alguns projetos que criei utilizando ferramentas e linguagens c
 
 [![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquedeantoni)](https://github.com/anuraghazra/github-readme-stats)  ![Henrique GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedeantoni)
 
-![](https://komarev.com/ghpvc/?username=henriquedeantoni)
-
-<!--   -->
