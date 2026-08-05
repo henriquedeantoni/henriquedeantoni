@@ -11,5 +11,5 @@ img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9
 
 # 📊 GitHub Stats:
 
-[![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquedeantoni)](https://github.com/anuraghazra/github-readme-stats)  ![Henrique GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquedeantoni)
+[![Henrique GitHub stats](https://github-stats-extended.vercel.app/api?username=henriquedeantoni)](https://github.com/anuraghazra/github-readme-stats)  ![Henrique GitHub stats](https://github-stats-extended.vercel.app/api/top-langs/?username=henriquedeantoni)
 
